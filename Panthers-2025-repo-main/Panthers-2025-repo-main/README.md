@@ -16,7 +16,7 @@ Welcome to our GitHub repository. In this repo, we will be documenting our journ
 # Team members
 The team consists of two people and a "coach" or as we like to call her at home ✨mum✨.
 
-<p style="font-size:28px;">
+<p style="font-size:60px;">
   <strong>**Kareem Siblini**</strong>
 </p>
 
