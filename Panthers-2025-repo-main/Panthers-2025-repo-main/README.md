@@ -13,6 +13,8 @@
 Hello everyone! 
 Welcome to our GitHub repository. In this repo, we will be documenting our journey in building our obstacle avoiding car, while also sharing some details about our software, design struggles and how we managed to overcome these challenges. We hope to inspire everyone who reads this documentation and spark an idea for their future solutions. Thank you for your visit, enjoy the ride!
 
+***
+
 # Team members
 The team consists of two people and a "coach" or as we like to call her at home ✨mum✨.
 
@@ -21,8 +23,6 @@ The team consists of two people and a "coach" or as we like to call her at home 
 
 <h4><strong>Description:</strong></h4>
 <!-- Write your description below -->
-
-***
 
 <h2><strong>Adam Siblini</strong></h2>
 <h4><strong>Age: 16</strong></h4>
