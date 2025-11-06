@@ -33,6 +33,7 @@ The team consists of two people and a "coach" or as we like to call her at home 
 
 
 
+<h2><strong>Contact us:</strong></h2>
 
 
 - Kareem Siblini  (Kareemsiblini@gmail.com)
