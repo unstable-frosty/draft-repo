@@ -16,11 +16,12 @@ Welcome to our GitHub repository. In this repo, we will be documenting our journ
 # Team members
 The team consists of two people and a "coach" or as we like to call her at home ✨mum✨.
 
-<span style="font-size:200px;"><strong>Kareem Siblini</strong></span>  
-<span style="font-size:20px;"><strong>Age: 16</strong></span>
+<h1><strong>Kareem Siblini</strong></h1>
+<h3><strong>Age: 16</strong></h3>
 
-<span style="font-size:22px;"><strong>Description:</strong></span>  
+<h2><strong>Description:</strong></h2>
 <!-- Write your description below -->
+
 
 
 
