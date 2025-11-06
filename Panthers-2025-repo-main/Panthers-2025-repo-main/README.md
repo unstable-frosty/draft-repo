@@ -23,13 +23,13 @@ The team consists of two people and a "coach" or as we like to call her at home 
 
 <h4><strong>Description:</strong></h4>
 <!-- Write your description below -->
-
+I’m mostly responsible for the robot’s design, documentation, and wiring, but my brother and I always jump in to help each other whenever we need it. I’m really passionate about coding and cybersecurity, and I love using that interest to push our robot further. When I’m not working on the robot, you’ll usually find me playing basketball. This is my first year competing internationally in the WRO and my first time in the Future Engineers category, and I’m super excited to be here!
 <h2><strong>Adam Siblini</strong></h2>
 <h4><strong>Age: 16</strong></h4>
 
 <h4><strong>Description:</strong></h4>
 <!-- Write your description below -->
-
+I’m mostly in charge of the coding and logic development for our robot, but just like Kareem helps me out, I also jump in to support his work whenever needed. I really enjoy math and love using it to build smarter algorithms for our robot. Outside of robotics, I enjoy swimming and staying active. This is my first year competing internationally in the WRO and my first time in the Future Engineers category, and I’m excited to take on the challenge!
 
 
 
