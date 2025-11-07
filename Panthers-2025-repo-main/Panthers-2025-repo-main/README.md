@@ -44,13 +44,6 @@ Our team is made up of twin brothers **Kareem** and **Adam** with our mum, **Coa
 
 
 
-## 📬 Contact Us
-
-<p align="center">
-  <a href="mailto:Kareemsiblini@gmail.com"><strong>Kareem Siblini</strong></a> •
-  <a href="mailto:adamsiblini@gmail.com"><strong>Adam Siblini</strong></a> •
-  <a href="mailto:enassif@gmail.com"><strong>Coach Ebtisam Nassif</strong></a>
-</p>
 
 ***
 
@@ -60,5 +53,13 @@ Our team is made up of twin brothers **Kareem** and **Adam** with our mum, **Coa
 
 To sum this all up, we have put a great amount of work and dedication into this project, and despite the challenges that we have faced throughout, we believe that it was very helpful and insightful, as we learned a lot about new algorithms and mechanisms. We would like to thank our Coach (AKA mum). We would like to apologize to our coach for conquering the house with the map and all the Lego pieces :).
 
+***
 
+## 📬 Contact Us
+
+<p align="center">
+  <a href="mailto:Kareemsiblini@gmail.com"><strong>Kareem Siblini</strong></a> •
+  <a href="mailto:adamsiblini@gmail.com"><strong>Adam Siblini</strong></a> •
+  <a href="mailto:enassif@gmail.com"><strong>Coach Ebtisam Nassif</strong></a>
+</p>
 
