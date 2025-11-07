@@ -7,7 +7,7 @@ Before building, we established a clear engineering direction to avoid wasted ti
 
 **During this phase, we:**
 - Defined the requirements of the WRO Future Engineers category and identified the technical functions our robot needed (accurate look-ahead sensing, smooth steering, stable behavior).
-- Explored multiple steering mechanisms—**Ackermann, differential, and parallel**—and evaluated their geometric constraints and complexity.
+- Explored multiple steering mechanisms—**Ackermann and parallel**—and evaluated their geometric constraints and complexity.
 - Sketched chassis concepts prioritizing **compactness, sensor visibility, and wiring accessibility**.
 - Mapped out component placement, wheel sizing, motor orientation, and overall spatial constraints.
 - Divided roles based on strengths:  
@@ -48,13 +48,13 @@ Once the plan was set, we refined our ideas into early mechanical models and lay
 
 ### **Issues Identified**
 - Robot footprint became **too large**, reducing turning radius and limiting steering angle.  
-- Large front wheels blocked any forward sensor mount.  
-- Mid-chassis sensing created **late reaction times**, causing oscillation.  
+- Large front wheels blocked us from adding ultrasonic sensors in the front.  
+- The sensor being in the middle under the chassis created **late reaction time** for .....
 - In open challenge tests, the robot frequently overcorrected due to inaccurate distance readings.
 
 ### ✅ **Engineering Insight from V1**  
 Placing the ultrasonic at the front was essential.  
-Sensor position—not sensor type—was the root cause of instability.
+Ultrasonic sensor position was extremely inefficient and was the root problem of the robot
 
 ---
 
@@ -62,8 +62,8 @@ Sensor position—not sensor type—was the root cause of instability.
 
 ### **Major Engineering Changes**
 - Motors reoriented **vertically**, reducing the width and freeing space.  
-- Steering system replaced with simplified **parallel steering**.  
-- Smaller wheels added, allowing nearly **100° of steering rotation**.  
+- Steering system replaced with simplified **parallel steering** geared from 8 tooth to 16 tooth bevel gear to increase encoder resolution..  
+- Smaller wheels added in the front, allowing nearly **100° of steering rotation**.  
 - First attempt at **direct steering drive** without gears.
 
 ### **Challenges Introduced**
@@ -91,7 +91,7 @@ Controlled mechanical imperfections—like backlash—can **stabilize** control 
 
 ### ✅ **What Testing Revealed**
 - Front-mounted ultrasonic dramatically improved reaction timing.  
-- Parallel steering with backlash provided the smoothest, most consistent control.  
+- Parallel steering with small amount backlash provided the smoothest, most consistent control.  
 - Compact front geometry enabled tighter steering without mechanical strain.
 
 ---
@@ -122,7 +122,7 @@ This is where the robot moved from “working prototype” to “competition-rea
 # 🤝 **Work Ethic & Team Collaboration**
 
 ## **Team Collaboration**
-- Tasks were divided logically—coding (Adam), design & documentation (Kareem)—but both contributed to each other’s work whenever needed.  
+- Tasks were divided logically—coding (Adam), design & documentation (Kareem)—but both of us contributed to each other’s work whenever needed.  
 - Working in the same environment allowed rapid testing, immediate feedback, and fast iteration cycles.  
 - Difficult problems were solved together by combining hardware and software perspectives.
 
