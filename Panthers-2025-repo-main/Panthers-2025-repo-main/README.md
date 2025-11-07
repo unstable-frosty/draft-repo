@@ -31,7 +31,9 @@ I’m mostly responsible for the robot’s design, documentation, and wiring, bu
 <!-- Write your description below -->
 I’m mostly in charge of the coding and logic development for our robot, but just like Kareem helps me out, I also jump in to support his work whenever needed. I really enjoy math and love using it to build smarter algorithms for our robot. Outside of robotics, I enjoy swimming and staying active. This is my first year competing internationally in the WRO and my first time in the Future Engineers category, and I’m excited to take on the challenge!
 
-
+<div style="background:#1e1e1e; padding:12px; width:120px; color:#c0c0c0; font-family:Arial; border-left:6px solid #555;">
+  Coach
+</div>
 
 <h2><strong>Contact us:</strong></h2>
 
