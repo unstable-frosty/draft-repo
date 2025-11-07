@@ -72,6 +72,10 @@ Once the plan was set, we refined our ideas into early mechanical models and lay
 Placing the ultrasonic at the front was essential.  
 Ultrasonic sensor position was extremely inefficient and was the root problem of the robot
 
+### 📷 **Prototype V1 Image**  
+![Prototype V1](https://github.com/unstable-frosty/Panthers-2025-repo/blob/cc2bc7a8f7964c5d921e8d20fd3a8d1da6067953/v-photos/Old%20prototype/proto%20v1%20side.JPG)
+
+
 ---
 
 ## 🔧 **Prototype V2 — Structural Redesign**
@@ -93,6 +97,10 @@ Ultrasonic sensor position was extremely inefficient and was the root problem of
 
 ### ✅ **Engineering Insight from V2**  
 Controlled mechanical imperfections—like backlash—can **stabilize** control loops instead of harming them.
+
+### 📷 **Prototype V1 vs V2 Comparison**  
+![V1 vs V2](https://github.com/unstable-frosty/Panthers-2025-repo/blob/f1d86ef3bd66ec246dbd942dfeb18111a9b46b35/v-photos/Old%20prototype/comparison%20proto%20v1%20vs%20v2.jpeg)
+
 
 ---
 
@@ -132,6 +140,10 @@ This is where the robot moved from “working prototype” to “competition-rea
 - Sensor data and steering logic were combined to create stable, early reactions to obstacles.  
 - Mechanical behavior and software tuning were synchronized for predictable, repeatable runs.  
 - The final robot delivered consistent performance across different field setups and lighting conditions.
+
+### 📷 **Final V3 Isometric View**  
+![V3 Isometric](https://github.com/unstable-frosty/Panthers-2025-repo/blob/0c87d287e1318654dd969f27b1b47dae0c5ba3b7/v-photos/isometric%20photo.jpeg)
+
 
 ---
 
