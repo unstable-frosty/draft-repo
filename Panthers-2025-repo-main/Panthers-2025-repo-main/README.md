@@ -15,56 +15,6 @@ Welcome to our GitHub repository. In this repo, we will be documenting our journ
 
 ***
 
-# Team members
-The team consists of two people and a "coach" or as we like to call her at home ✨mum✨.
-
-<h2><strong>Kareem Siblini</strong></h2>
-<h4><strong>Age: 16</strong></h4>
-
-<h4><strong>Description:</strong></h4>
-<!-- Write your description below -->
-I’m mostly responsible for the robot’s design, documentation, and wiring, but my brother and I always jump in to help each other whenever we need it. I’m really passionate about coding and cybersecurity, and I love using that interest to push our robot further. When I’m not working on the robot, you’ll usually find me playing basketball. This is my first year competing internationally in the WRO and my first time in the Future Engineers category, and I’m super excited to be here!
-<h2><strong>Adam Siblini</strong></h2>
-<h4><strong>Age: 16</strong></h4>
-
-<h4><strong>Description:</strong></h4>
-<!-- Write your description below -->
-I’m mostly in charge of the coding and logic development for our robot, but just like Kareem helps me out, I also jump in to support his work whenever needed. I really enjoy math and love using it to build smarter algorithms for our robot. Outside of robotics, I enjoy swimming and staying active. This is my first year competing internationally in the WRO and my first time in the Future Engineers category, and I’m excited to take on the challenge!
-
-<h2><strong>Coach Ebtissam nassif</strong></h2>
-<h4><strong>Description:</strong></h4>
-<!-- Write your description below -->
-I’m the coach of the team and also the mum of these twin brothers. I help keep everything on track: organizing, motivating, and stepping in when things get complicated so we can break problems down and solve them together. I’m also the one managing the budget and ordering the components we need, making sure the boys have what they need to keep building and improving. My role is to support them, keep things balanced, and guide them forward whenever things get overwhelming.
-Im fully in charge of supe
-
-<h2 align="center">📬 Contact Us</h2>
-
-<p align="center">
-  <strong>Kareem Siblini</strong><br>
-  <a href="mailto:Kareemsiblini@gmail.com">Kareemsiblini@gmail.com</a>
-</p>
-
-<p align="center">
-  <strong>Adam Siblini</strong><br>
-  <a href="mailto:adamsiblini@gmail.com">adamsiblini@gmail.com</a>
-</p>
-
-<p align="center">
-  <strong>Coach Ebtisam Nassif</strong><br>
-  <a href="mailto:enassif@gmail.com">enassif@gmail.com</a>
-</p>
-
-<h2><strong>Contact us:</strong></h2>
-
-
-- Kareem Siblini  (Kareemsiblini@gmail.com)
-- Adam Siblini  (adamsiblini@gmail.com)
-- coach Ebtisam nassif (enassif@gmail.com)
-
-***
-
-
-
 ## Team members
 
 Our team is made up of twin brothers—**Kareem** and **Adam**—with our mum, **Coach Ebtisam**, keeping us organized and moving forward.
