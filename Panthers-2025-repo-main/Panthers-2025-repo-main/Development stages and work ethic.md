@@ -19,6 +19,26 @@ Before building, we established a clear engineering direction to avoid wasted ti
 
 ---
 
+---
+
+## 🧭 **Background & Previous Experience**
+Before entering the Future Engineers category, we built our foundation through years of self-driven learning and previous WRO participation. We are fully self-taught developers, and although this is our **first year** in Future Engineers, it is our **second year** competing in the WRO overall.
+
+Our previous experience in the **RoboMission** category played a huge role in shaping our engineering mindset. The creative freedom of RoboMission forced us to approach problems with open-ended design thinking, which later became extremely valuable when building our obstacle-avoiding robot. It helped us develop a strong mechanical intuition, especially when designing compact robots under strict constraints.
+
+We also gained experience in **line-following competitions**, where we pushed a LEGO EV3 system to its limits—breaking a **16-year standing record** using a finely tuned mathematical **PD control equation**. These challenges taught us precision, control theory, and efficient algorithm design.
+
+Despite all these skills, the Future Engineers category introduced new obstacles:  
+- camera placement and stabilization,  
+- field-dependent calibration,  
+- and even working with new mathematical concepts like **quadratic curve equations**.
+
+These experiences shaped not only our workflow but also our determination to continuously adapt, learn, and engineer better solutions.
+
+---
+
+---
+
 ## 💡 **2. Concept Development**
 Once the plan was set, we refined our ideas into early mechanical models and layout options.
 
