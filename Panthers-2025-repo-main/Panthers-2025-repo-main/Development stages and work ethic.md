@@ -19,8 +19,6 @@ Before building, we established a clear engineering direction to avoid wasted ti
 
 ---
 
----
-
 ## 🧭 **Background & Previous Experience**
 Before entering the Future Engineers category, we built our foundation through years of self-driven learning and previous WRO participation. We are fully self-taught developers, and although this is our **first year** in Future Engineers, it is our **second year** competing in the WRO overall.
 
@@ -34,8 +32,6 @@ Despite all these skills, the Future Engineers category introduced new obstacles
 - and even working with new mathematical concepts like **quadratic curve equations**.
 
 These experiences shaped not only our workflow but also our determination to continuously adapt, learn, and engineer better solutions.
-
----
 
 ---
 
