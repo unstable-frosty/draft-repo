@@ -43,13 +43,19 @@ Our team is made up of twin brothers **Kareem** and **Adam** with our mum, **Coa
 > I’m the coach of the team and also the mum of these twin brothers. I help keep everything on track: organizing, motivating, and stepping in when things get complicated so we can break problems down and solve them together. I’m also the one managing the budget and ordering the components we need, making sure the boys have what they need to keep building and improving. My role is to support them, keep things balanced, and guide them forward whenever things get overwhelming.
 
 
+***
 
+# Briefing
+
+Our robot is an autonomous EV3 based car programmed in CLEV3R and powered by a coordinated multi sensor system. Three ultrasonic sensors connected through a MindSensors multiplexer provide continuous distance data, while a Pixy camera handles traffic sign color recognition, an EV3 color sensor detects checkpoints, and a gyro maintains accurate orientation by tracking the robot’s angle in real time. Together, these sensors give the robot reliable awareness of its surroundings and consistent interpretation of field elements.
+
+The drivetrain uses EV3 medium motors driving a differential gear layout for smooth forward motion, paired with a custom parallel steering mechanism controlled by an EV3 medium motor. After multiple prototype iterations, this setup delivered the most stable turning, strong look ahead behavior, and minimal oscillation. The final design combines refined mechanical tuning with structured CLEV3R logic, resulting in a compact, responsive, and competition ready Future Engineers robot.
 
 ***
 
 
 
-# Conclusion
+# Final Reflection
 
 To sum this all up, we have put a great amount of work and dedication into this project, and despite the challenges that we have faced throughout, we believe that it was very helpful and insightful, as we learned a lot about new algorithms and mechanisms. We would like to thank our Coach (AKA mum). We would like to apologize to our coach for conquering the house with the map and all the Lego pieces :).
 
