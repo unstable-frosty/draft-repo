@@ -17,7 +17,7 @@ Welcome to our GitHub repository. In this repo, we will be documenting our journ
 
 ## Team members
 
-Our team is made up of twin brothers—**Kareem** and **Adam**—with our mum, **Coach Ebtisam**, keeping us organized and moving forward.
+Our team is made up of twin brothers **Kareem** and **Adam** with our mum, **Coach Ebtisam**, keeping us organized and moving forward.
 
 ---
 
@@ -40,7 +40,7 @@ Our team is made up of twin brothers—**Kareem** and **Adam**—with our mum, *
 > ### Coach Ebtisam Nassif  
 > **Role:** Coach • Organization • Budget & components  
 >
-> I’m the coach of the team—and also the mum of these twin brothers. I help keep everything on track: organizing, motivating, and stepping in when things get complicated so we can break problems down and solve them together. I’m also the one managing the budget and ordering the components we need, making sure the boys have what they need to keep building and improving. My role is to support them, keep things balanced, and guide them forward whenever things get overwhelming.
+> I’m the coach of the team and also the mum of these twin brothers. I help keep everything on track: organizing, motivating, and stepping in when things get complicated so we can break problems down and solve them together. I’m also the one managing the budget and ordering the components we need, making sure the boys have what they need to keep building and improving. My role is to support them, keep things balanced, and guide them forward whenever things get overwhelming.
 
 ---
 
