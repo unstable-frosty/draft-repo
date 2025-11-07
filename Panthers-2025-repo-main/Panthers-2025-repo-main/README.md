@@ -31,9 +31,28 @@ I’m mostly responsible for the robot’s design, documentation, and wiring, bu
 <!-- Write your description below -->
 I’m mostly in charge of the coding and logic development for our robot, but just like Kareem helps me out, I also jump in to support his work whenever needed. I really enjoy math and love using it to build smarter algorithms for our robot. Outside of robotics, I enjoy swimming and staying active. This is my first year competing internationally in the WRO and my first time in the Future Engineers category, and I’m excited to take on the challenge!
 
-<div style="background:#1e1e1e; padding:12px; width:120px; color:#c0c0c0; font-family:Arial; border-left:6px solid #555;">
-  Coach
-</div>
+<h2><strong>Coach Ebtissam nassif</strong></h2>
+<h4><strong>Description:</strong></h4>
+<!-- Write your description below -->
+I’m the coach of the team and also the mum of these twin brothers. I help keep everything on track: organizing, motivating, and stepping in when things get complicated so we can break problems down and solve them together. I’m also the one managing the budget and ordering the components we need, making sure the boys have what they need to keep building and improving. My role is to support them, keep things balanced, and guide them forward whenever things get overwhelming.
+Im fully in charge of supe
+
+<h2 align="center">📬 Contact Us</h2>
+
+<p align="center">
+  <strong>Kareem Siblini</strong><br>
+  <a href="mailto:Kareemsiblini@gmail.com">Kareemsiblini@gmail.com</a>
+</p>
+
+<p align="center">
+  <strong>Adam Siblini</strong><br>
+  <a href="mailto:adamsiblini@gmail.com">adamsiblini@gmail.com</a>
+</p>
+
+<p align="center">
+  <strong>Coach Ebtisam Nassif</strong><br>
+  <a href="mailto:enassif@gmail.com">enassif@gmail.com</a>
+</p>
 
 <h2><strong>Contact us:</strong></h2>
 
