@@ -2,8 +2,7 @@
 ## Bill of Materials (BOM)
 
 ### Component 1
-| Field | Details |
-|-------|---------|
+
 | ![Component Photo](./images/example_1.jpg) |
 |---------|
 | **Name** | Example Component 1 |
