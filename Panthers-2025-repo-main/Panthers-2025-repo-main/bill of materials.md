@@ -55,7 +55,7 @@
 |-------|
 | ![Component Photo](./images/example.jpg) |
 
-| Field | Value |
+
 |-------|-------|
 | **Name** | Component Name |
 | **Part Number** | PN-XXXXX |
