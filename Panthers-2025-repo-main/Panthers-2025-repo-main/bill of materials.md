@@ -4,7 +4,7 @@
 ### Component 1
 
 | ![Component Photo](./images/example_1.jpg) |
-|---------||---------|
+|-------|---------|
 | **Name** | Example Component 1 |
 | **Part Number** | PN-12345 |
 | **Quantity** | 1 |
