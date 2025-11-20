@@ -41,3 +41,28 @@
 | **Current Draw** | 50mA |
 | **Key Specs** | • Spec A  
 • Spec B |
+
+
+
+--
+
+
+## Bill of Materials (BOM)
+
+### Component
+
+| PHOTO |
+|-------|
+| ![Component Photo](./images/example.jpg) |
+
+| Field | Value |
+|-------|-------|
+| **Name** | Component Name |
+| **Part Number** | PN-XXXXX |
+| **Quantity** | 1 |
+| **Voltage Rating** | 5V |
+| **Current Draw** | 200mA |
+| **Key Specs** | • Spec A  
+• Spec B  
+• Spec C |
+
