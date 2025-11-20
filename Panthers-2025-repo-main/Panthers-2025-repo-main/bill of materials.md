@@ -66,3 +66,23 @@
 • Spec B  
 • Spec C |
 
+
+## Bill of Materials (BOM)
+
+### Component
+
+| Photo | Photo |
+|-------|-------|
+| ![Photo](./images/component.jpg) | ![Photo](./images/component.jpg) |
+
+| Field | Value |
+|-------|-------|
+| **Name** | Component Name |
+| **Part Number** | PN-XXXXX |
+| **Quantity** | 1 |
+| **Voltage Rating** | 5V |
+| **Current Draw** | 200mA |
+| **Key Specs** | • Spec A  
+• Spec B  
+• Spec C |
+
