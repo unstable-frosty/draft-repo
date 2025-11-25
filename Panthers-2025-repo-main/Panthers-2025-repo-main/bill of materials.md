@@ -175,11 +175,11 @@
   </tr>
   <tr>
     <th align="left">Name</th>
-    <td>Component Name</td>
+    <td>Linear voltage regulator</td>
   </tr>
   <tr>
     <th align="left">Part Number</th>
-    <td>PN-XXXXX</td>
+    <td>LM7805</td>
   </tr>
   <tr>
     <th align="left">Quantity</th>
@@ -191,14 +191,14 @@
   </tr>
   <tr>
     <th align="left">Current Draw</th>
-    <td>200 mA</td>
+    <td>140-150 mA</td>
   </tr>
   <tr>
     <th align="left">Key Specs</th>
     <td>
-      • Spec A<br>
-      • Spec B<br>
-      • Spec C
+      • Dropout voltage (minimum input-to-output difference) approximately 2 V at 1 A load.<br>
+      • Built-in protections: thermal overload protection, short-circuit current limiting, safe-area compensation.<br>
+      • Quiescent current typically around 4 mA (for e.g., L7805CV variant) when in operation but no load.
     </td>
   </tr>
 </table>
