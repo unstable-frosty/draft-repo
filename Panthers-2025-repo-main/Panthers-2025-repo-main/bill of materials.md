@@ -5,7 +5,7 @@
 
 ## Bill of Materials (BOM)
 
-### Component 1
+### Slave controller
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-### Component 1
+### Gyro
 
 <table>
   <tr>
@@ -55,11 +55,11 @@
   </tr>
   <tr>
     <th align="left">Name</th>
-    <td>Component Name</td>
+    <td>BMO085</td>
   </tr>
   <tr>
     <th align="left">Part Number</th>
-    <td>PN-XXXXX</td>
+    <td>BMO08X</td>
   </tr>
   <tr>
     <th align="left">Quantity</th>
@@ -67,18 +67,18 @@
   </tr>
   <tr>
     <th align="left">Voltage Rating</th>
-    <td>5 V</td>
+    <td>3.3V</td>
   </tr>
   <tr>
     <th align="left">Current Draw</th>
-    <td>200 mA</td>
+    <td>1.5 mA</td>
   </tr>
   <tr>
     <th align="left">Key Specs</th>
     <td>
-      • Spec A<br>
-      • Spec B<br>
-      • Spec C
+      • Integrates 3-axis accelerometer, 3-axis gyroscope, 3-axis magnetometer + ARM® Cortex®-M0+ core with sensor fusion firmware.<br>
+      • Supports multiple host interfaces: I²C, SPI, UART for communication.<br>
+      • Device size: compact 28-pin LGA package approx 3.8 mm × 5.2 mm × 1.1 mm
     </td>
   </tr>
 </table>
@@ -95,11 +95,11 @@
   </tr>
   <tr>
     <th align="left">Name</th>
-    <td>Component Name</td>
+    <td>OpenMV Cam RT1062</td>
   </tr>
   <tr>
     <th align="left">Part Number</th>
-    <td>PN-XXXXX</td>
+    <td>RT-1062</td>
   </tr>
   <tr>
     <th align="left">Quantity</th>
@@ -107,18 +107,18 @@
   </tr>
   <tr>
     <th align="left">Voltage Rating</th>
-    <td>5 V</td>
+    <td>5V</td>
   </tr>
   <tr>
     <th align="left">Current Draw</th>
-    <td>200 mA</td>
+    <td>100-130mA</td>
   </tr>
   <tr>
     <th align="left">Key Specs</th>
     <td>
-      • Spec A<br>
-      • Spec B<br>
-      • Spec C
+      • 600 MHz ARM® Cortex®-M7 CPU (RT1062) with large external 32 MB SDRAM + 16 MB Flash for high-performance machine vision.<br>
+      • Removable camera module with OV5640 sensor (5 MP, up to 2592×1944) for image capture + on-board I/O (SPI, I²C, CAN, ADC) for sensors & actuators.<br>
+      • All I/O pins are 3.3 V tolerant, with onboard USB-C interface, microSD slot, WiFi & Bluetooth connectivity options, and LiPo battery support for portable machine vision applications.
     </td>
   </tr>
 </table>
@@ -135,11 +135,11 @@
   </tr>
   <tr>
     <th align="left">Name</th>
-    <td>Component Name</td>
+    <td>EIT-COM-030 Relay</td>
   </tr>
   <tr>
     <th align="left">Part Number</th>
-    <td>PN-XXXXX</td>
+    <td>EIT-COM-030</td>
   </tr>
   <tr>
     <th align="left">Quantity</th>
@@ -151,14 +151,14 @@
   </tr>
   <tr>
     <th align="left">Current Draw</th>
-    <td>200 mA</td>
+    <td>60-70 mA</td>
   </tr>
   <tr>
     <th align="left">Key Specs</th>
     <td>
-      • Spec A<br>
-      • Spec B<br>
-      • Spec C
+      • Single-channel relay board (1 relay on board)<br>
+      • Switches high voltage/current: up to 250 V AC at 10 A<br>
+      • Digital control: Module LED lights when the input is HIGH and the relay closes the circuit.
     </td>
   </tr>
 </table>
