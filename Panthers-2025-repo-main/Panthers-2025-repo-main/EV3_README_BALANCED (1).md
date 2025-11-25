@@ -1,7 +1,7 @@
-# EV3 Future Engineers – Balanced Technical Documentation  
-*(Paragraphs + Some Bullet Points)*
+# EV3 Open Challenge Code Explanation
 
-This document explains the navigation program for the WRO Future Engineers Open Challenge. It keeps the long-form descriptive style you liked, but now includes a moderate number of bullet points to improve clarity without overwhelming structure. Every section maintains similar density and importance, reflecting the structure and depth of the original program.
+
+This document explains the navigation program for the WRO Future Engineers Open Challenge.
 
 ---
 
