@@ -37,9 +37,9 @@
   <tr>
     <th align="left">Key Specs</th>
     <td>
-      • **3.3 V logic**, powered via USB-C or 5 V pin<br>
-      • **Built-in Flash + PSRAM**, suitable for IoT and AI/ML-on-microcontroller tasks<br>
-      • **~24 GPIO pins** with digital, analog, I²C, SPI, UART, PWM support
+      • 3.3 V logic , powered via USB-C or 5 V pin<br>
+      • Built-in Flash + PSRAM, suitable for IoT and AI/ML-on-microcontroller tasks<br>
+      • ~24 GPIO pins with digital, analog, I²C, SPI, UART, PWM support
     </td>
   </tr>
 </table>
