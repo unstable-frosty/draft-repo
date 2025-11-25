@@ -194,9 +194,5 @@ After completing all twelve turns, the robot enters a final sequence of movement
 
 This ensures the robot finishes cleanly and predictably.
 
----
 
-## Final Remarks
-
-This version of the documentation maintains a balanced structure that mixes paragraphs with selective bullet points. Each section preserves the level of complexity and explanation density you requested while improving readability. The result is a reference document that can be used by team members who need both conceptual understanding and practical insight into how the robot’s navigation program functions.
 
