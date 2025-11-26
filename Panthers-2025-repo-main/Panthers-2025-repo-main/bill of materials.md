@@ -202,3 +202,82 @@
     </td>
   </tr>
 </table>
+
+
+
+<table>
+  <tr>
+    <!-- Photo spanning both columns -->
+    <td colspan="2" align="center">
+      <img src="./images/component_1.jpg" alt="Component 1 photo" width="400">
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Name</th>
+    <td>Lego EV3</td>
+  </tr>
+  <tr>
+    <th align="left">Part Number</th>
+    <td>31313</td>
+  </tr>
+  <tr>
+    <th align="left">Quantity</th>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th align="left">Voltage Rating</th>
+    <td>7.4V</td>
+  </tr>
+  <tr>
+    <th align="left">Current Draw</th>
+    <td>240 mA</td>
+  </tr>
+  <tr>
+    <th align="left">Key Specs</th>
+    <td>
+      • CPU: ARM9 processor running Linux on the EV3 brick. <br>
+      • Memory & storage: 64 MB RAM, 16 MB Flash, plus micro-SD slot (up to 32 GB) <br>
+      • I/O: 4 motor output ports + 4 sensor input ports, USB host, Bluetooth, and optional Wi-Fi dongle support.
+    </td>
+  </tr>
+</table>
+
+
+
+
+<table>
+  <tr>
+    <!-- Photo spanning both columns -->
+    <td colspan="2" align="center">
+      <img src="./images/component_1.jpg" alt="Component 1 photo" width="400">
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Name</th>
+    <td>..</td>
+  </tr>
+  <tr>
+    <th align="left">Part Number</th>
+    <td>....</td>
+  </tr>
+  <tr>
+    <th align="left">Quantity</th>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th align="left">Voltage Rating</th>
+    <td>...</td>
+  </tr>
+  <tr>
+    <th align="left">Current Draw</th>
+    <td> mA</td>
+  </tr>
+  <tr>
+    <th align="left">Key Specs</th>
+    <td>
+      •  <br>
+      •  <br>
+      • 
+    </td>
+  </tr>
+</table>
